@@ -4,7 +4,7 @@
 * [What it is expected from collaborators?](https://github.com/hjconehour/onehouraday/wiki/What-it-is-expected-from-collaborators%3F)
 * [How do I start?](https://github.com/hjconehour/onehouraday/wiki/How-do-I-start%3F)
 * [How people get communicated?](https://github.com/hjconehour/onehouraday/wiki/How-people-get-communicated%3F)
-* [How the work is organised?](https://github.com/hjconehour/onehouraday/wiki/How-the-work-is-organised%3F)
+* [How is the work organised?](https://github.com/hjconehour/onehouraday/wiki/How-the-work-is-organised%3F)
 * [How to start collaborating](https://github.com/hjconehour/onehouraday/wiki/How-to-start-collaborating)
 * [Kanban board](https://github.com/hjconehour/onehouraday/projects/1)
 * [Overall roadmap](https://github.com/hjconehour/onehouraday/wiki/Overall-roadmap)
@@ -14,10 +14,10 @@
 A fair world. (Simple, but that’s how we see the future)
 
 # Our Mission
-Maximise social initiatives impact by making social collaboration an habit on people’s life.
+Maximise social initiatives impact by making social collaboration a habit in people’s lives.
 
 # About 1 Hour a Day
-1hour1day.com is a Social Platform that enables people to learn by helping on social innitiatives. 
+1hour1day.com is a Social Platform that enables people to learn by helping on social initiatives. 
 We want to reduce the barriers present on "Social impact work" and encourage more people to *use their strengths to serve others.*
 
 # What problems we want to solve
@@ -26,10 +26,10 @@ We want to reduce the barriers present on "Social impact work" and encourage mor
 
 ###  For social projects:  Power up social projects through soft volunteer
 
-We have seen a lot of social projects that still cannnot reach their max potencial. 
-If we can all just spend a few hours helping a social cause, together we can do a huge impact.
+We have seen a lot of social projects that still cannnot reach their max potential. 
+If we can all just spend a few hours helping a social cause, together we can have a huge impact.
 
-* This platform aims to remove all the barriers that now prevents people to spend a few time helping on a social project.
+* This platform aims to remove all the barriers that now prevent people to spend a few time helping on a social project.
 * We want to reinforce the "Get a Task Done" volunteer experience 
 * We want people to use their stregths to help others 
 * We want experts from everywhere collaborating with social projects 
@@ -38,7 +38,7 @@ If we can all just spend a few hours helping a social cause, together we can do 
 
 We have seen people frustrated about the following situations:
 
-* Getting blocked and not being able to keep develop their profesional career
+* Getting blocked and not being able to keep developing their professional career
 * Gaining experience for a new role is hard  (without real experience) 
 * Entering the job market is hard.  (Entry requirements are too high and people don't have experience)
 * Learning is limited to who you interact and you need to switch jobs to learn from other environment. 
